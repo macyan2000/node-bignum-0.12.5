@@ -1,0 +1,14 @@
+# Files
+.lock-wscript
+pre-gyp-publish.sh
+
+# Filetypes
+.*.swp
+
+# Paths
+/build
+/node_modules
+/coverage
+/binding
+/.nyc_output
+/docker
